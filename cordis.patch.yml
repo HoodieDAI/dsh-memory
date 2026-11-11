@@ -1,0 +1,4 @@
+- insert:
+    - id: auto-memory
+      name: '@local/auto-memory'
+      config: {}

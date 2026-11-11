@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Auto Memory",
+    "description": "Adds a clickable left-sidebar Auto Memory panel that previews project memories and lets the agent save durable facts automatically."
+  }
+}
